@@ -1,0 +1,23 @@
+# analysis_options.yaml
+analyzer:
+  exclude:
+    - '**/*.g.dart'
+    - '**/*.freezed.dart'
+    - '**/*.gr.dart'
+  errors:
+    # Solo habilitar errores críticos
+    deprecated_member_use: ignore
+    invalid_override: ignore
+    missing_required_param: ignore
+    missing_return: ignore
+    unused_import: ignore
+    unused_local_variable: ignore
+    
+linter:
+  rules:
+    # Solo las reglas más importantes
+    - avoid_print
+    - avoid_empty_else
+    - prefer_const_constructors
+    - prefer_final_fields
+    - use_key_in_widget_constructors
