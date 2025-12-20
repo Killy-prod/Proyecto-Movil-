@@ -9,6 +9,9 @@
 
 Pawber es una aplicación móvil desarrollada en Flutter que conecta dueños de mascotas con cuidadores profesionales, ofreciendo un servicio similar a Uber para el cuidado de animales domésticos.
 
+El apk y el video de la prueba alfa se encuentran almacenados en una carpeta de Drive ya que son muy pesados para subir los archivos directo al repositorio.
+**Link carpeta de DRIVE:** https://drive.google.com/drive/folders/1JovoNgF93YumK-7zNx8J2Wzsr6DrR9ry?usp=sharing 
+
 **📱 Características Principales**
 
 - 📍 Búsqueda geolocalizada de cuidadores cercanos
